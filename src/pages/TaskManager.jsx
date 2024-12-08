@@ -18,6 +18,7 @@ const TaskManager = () => {
           <a
             href="https://drive.google.com/file/d/1-XAeAuWDspCjeU9Iio2xhorTpBLOy4-U/view?usp=sharing" // Path to your image
             download="downloaded-image.jpg" // Name of the file after download
+            target="_blank"
             className="bg-gray-600 text-white px-2 py-1 rounded shadow hover:bg-gray-800 transition "
           >
             Download Image
